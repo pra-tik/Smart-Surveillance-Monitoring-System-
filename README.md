@@ -13,44 +13,42 @@ that particular area.
 Specifications:
 
 1.Raspberry pi B+:
- Dual step-down (buck) power supply for 3.3V and 1.8V
- 5V supply has polarity protection, 2A fuse and hot-swap protection (so you
-can plug/unplug USB without resetting the board)
- New USB/Ethernet controller chip
- 4 USB ports instead of 2 ports
- 40 GPIO pins instead of 26. The top/first 26 pins match the original layout, 9
-additional GPIO and 2 EEPROM Plate identification pins
- Composite (NTSC/PAL) video now integrated into 4-pole 3.5mm
-&#39;headphone&#39; jack
- MicroSD card socket instead of full size SD
- Four mounting holes in rectangular layout
- Many connectors moved around
- Mini computer
- LINUX based OS
- Operating Frequency – 700MHz
- SD card slot
- Power Rating :800mA - 0.5W to 1W
+   Dual step-down (buck) power supply for 3.3V and 1.8V
+   5V supply has polarity protection, 2A fuse and hot-swap protection (so you can plug/unplug USB without resetting the board)
+   New USB/Ethernet controller chip
+   4 USB ports instead of 2 ports
+   40 GPIO pins instead of 26. The top/first 26 pins match the original layout, 9 additional GPIO and 2 EEPROM Plate identification pins
+   Composite (NTSC/PAL) video now integrated into 4-pole 3.5mm
+   &#39;headphone&#39; jack
+   MicroSD card socket instead of full size SD
+   Four mounting holes in rectangular layout
+   Many connectors moved around
+   Mini computer
+   LINUX based OS
+   Operating Frequency – 700MHz
+   SD card slot
+   Power Rating :800mA - 0.5W to 1W
 
 2.Camera:
-1. Omnivision 5647 CMOS image sensor in a fixed-focus module
-2. 5-megapixel resolution
-3.Still picture resolution 2592 x 1944
-4. Image control functions-Automatic exposure control
-Automatic white balance
-Automatic band filter
-Automatic 50/60 Hz luminance detection
-Automatic black level calibration
-5.Operating temperature -30° to 70°
-6. 15cm ribbon cable
+   Omnivision 5647 CMOS image sensor in a fixed-focus module
+   5-megapixel resolution
+   Still picture resolution 2592 x 1944
+   Image control functions-Automatic exposure control
+   Automatic white balance
+   Automatic band filter
+   Automatic 50/60 Hz luminance detection
+   Automatic black level calibration
+   Operating temperature -30° to 70°
+   15cm ribbon cable
 
 3. PIR sensor:
 
-Size: Rectangular
-Output: Digital pulse high (3V) when triggered (motion detected) digital low when
-idle (no motion detected).
-Pulse lengths are determined by resistors and capacitors on the PCB and differ
-from sensor to sensor.
-Sensitivity range: up to 20 feet (6 meters) 110° x 70° detection range
-Power supply: 3V-9V input voltage, but 5V is ideal.
+  Size: Rectangular
+  Output: Digital pulse high (3V) when triggered (motion detected) digital low when
+  idle (no motion detected).
+  Pulse lengths are determined by resistors and capacitors on the PCB and differ
+  from sensor to sensor.
+  Sensitivity range: up to 20 feet (6 meters) 110° x 70° detection range
+  Power supply: 3V-9V input voltage, but 5V is ideal.
 
 
