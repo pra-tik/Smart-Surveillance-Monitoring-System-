@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">766221761724-mc8m6nqhaf5ift9fetloc4vdr4a587uu.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://iotlab-c4bd1.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">766221761724</string>
+    <string name="google_api_key" translatable="false">AIzaSyAGRQPWTA5lczZOfacOLvRpDWOb_uH3KIY</string>
+    <string name="google_app_id" translatable="false">1:766221761724:android:6c201e637e54bac4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAGRQPWTA5lczZOfacOLvRpDWOb_uH3KIY</string>
+    <string name="google_storage_bucket" translatable="false">iotlab-c4bd1.appspot.com</string>
+    <string name="project_id" translatable="false">iotlab-c4bd1</string>
+</resources>
