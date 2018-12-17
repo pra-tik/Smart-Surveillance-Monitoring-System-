@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bgColor3"
+    tools:context=".MainActivity">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="84dp"
+        tools:layout_editor_absoluteY="108dp">
+
+        <TextView
+            android:id="@+id/sText"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:background="@color/bgColor"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:textSize="50sp"
+            android:textColor="@color/textColor"/>
+
+        <Button
+            android:id="@+id/butt"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="203dp"
+            android:text="@string/Seeall"
+            android:textStyle="bold"
+            android:background="@color/bgColor2"/>
+
+        <Button
+            android:id="@+id/streamId"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="136dp"
+            android:text="@string/streamVideo"
+            android:textStyle="bold"
+            android:background="@color/bgColor2"/>
+
+
+    </RelativeLayout>
+
+
+
+
+</android.support.constraint.ConstraintLayout>
